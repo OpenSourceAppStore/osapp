@@ -1,4 +1,4 @@
-# Open Source App Store Desktop
+# Open source App Store desktop
 
 Visit the link for the main repository:
 
